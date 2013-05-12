@@ -1,0 +1,20 @@
+{
+  "name": "file-store-sync",
+  "version": "0.1.0",
+  "description": "Store data in a file synchronously",
+  "keywords": ["persitent storage", "file"],
+  "author": "Ivan Fraixede Cugat <ifcdev@gmail.com>",
+  "repository": "git://github.com/ifraixedes/file-store-sync.git",
+  "main": "index",
+  "homepage": "https://github.com/ifraixedes/file-store-sync",
+  "contributors": [],
+  "dependencies": {
+    "mkdirp": "~0.3.4"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/ifraixedes/file-store-sync/raw/master/LICENSE"
+    }
+  ]
+}
