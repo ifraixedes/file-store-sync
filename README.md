@@ -74,7 +74,7 @@ I would like to appreciate to Raynos to develop the file-store project and relea
 License
 (The MIT License)
 
-Copyright (c) 2013 Ivan Fraixedes Cugat <ifcdev@gmail.com>
+Copyright (c) 2014 Ivan Fraixedes Cugat <ifcdev@gmail.com>
 
 This project is a fork from the project file-store developed Raynos (https://github.com/Raynos/file-store)
 
